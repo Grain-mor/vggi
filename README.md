@@ -1,4 +1,4 @@
-# VGGI Practical assignment #3 
+# VGGI CGW
 
 ![plot](./CGW/images/Screenshot1.png)
 
