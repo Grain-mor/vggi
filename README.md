@@ -1,5 +1,11 @@
 # VGGI Practical assignment #3 
 
+![plot](./CGW/images/Screenshot1.png)
+
+![plot](./CGW/images/Screenshot2.png)
+
+# VGGI Practical assignment #3 
+
 ![plot](./PA3/images/Screenshot1.png)
 
 ![plot](./PA3/images/Screenshot2.png)
